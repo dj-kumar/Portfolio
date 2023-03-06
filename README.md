@@ -1,2 +1,1 @@
-# Portfolio
-Data analysis projects
+# SQL Data Manipulation Project
